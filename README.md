@@ -31,4 +31,4 @@ Certifique-se de ter o ambiente Dart instalado. Para mais detalhes, acesse [Dart
 3. Execute o arquivo principal com o comando:
 
    ```bash
-   dart run <nome_do_arquivo>.dart
+   dart run genetic_algorithm_facepe.dart
